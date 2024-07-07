@@ -6,6 +6,8 @@ layout: homepage
 
 I am a Ph.D. student at ...
 
+Hello, my name is chuxu，this is my website. Welcome!
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
